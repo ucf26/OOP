@@ -1,0 +1,14 @@
+E:\Courses\C#\OOP\02 Student Grade Management System\bin\Debug\net10.0\02 Student Grade Management System.exe
+E:\Courses\C#\OOP\02 Student Grade Management System\bin\Debug\net10.0\02 Student Grade Management System.deps.json
+E:\Courses\C#\OOP\02 Student Grade Management System\bin\Debug\net10.0\02 Student Grade Management System.runtimeconfig.json
+E:\Courses\C#\OOP\02 Student Grade Management System\bin\Debug\net10.0\02 Student Grade Management System.dll
+E:\Courses\C#\OOP\02 Student Grade Management System\bin\Debug\net10.0\02 Student Grade Management System.pdb
+E:\Courses\C#\OOP\02 Student Grade Management System\obj\Debug\net10.0\02 Student Grade Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\C#\OOP\02 Student Grade Management System\obj\Debug\net10.0\02 Student Grade Management System.AssemblyInfoInputs.cache
+E:\Courses\C#\OOP\02 Student Grade Management System\obj\Debug\net10.0\02 Student Grade Management System.AssemblyInfo.cs
+E:\Courses\C#\OOP\02 Student Grade Management System\obj\Debug\net10.0\02 Student Grade Management System.csproj.CoreCompileInputs.cache
+E:\Courses\C#\OOP\02 Student Grade Management System\obj\Debug\net10.0\02 Student Grade Management System.dll
+E:\Courses\C#\OOP\02 Student Grade Management System\obj\Debug\net10.0\refint\02 Student Grade Management System.dll
+E:\Courses\C#\OOP\02 Student Grade Management System\obj\Debug\net10.0\02 Student Grade Management System.pdb
+E:\Courses\C#\OOP\02 Student Grade Management System\obj\Debug\net10.0\02 Student Grade Management System.genruntimeconfig.cache
+E:\Courses\C#\OOP\02 Student Grade Management System\obj\Debug\net10.0\ref\02 Student Grade Management System.dll
